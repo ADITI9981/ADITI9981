@@ -12,6 +12,7 @@ discovered! And I'm here to uncover them, one algorithm at a time.
 
 
 
+
 ## 🚀 About Me
 I am on a journey to build impactful AI projects and solve complex problems.
 
@@ -20,6 +21,7 @@ Learning, Deep Learning, and AI.
 
 I enjoy exploring the cosmos and understanding the mysteries of the universe 
 alongside my tech ventures. 🌌
+
 
 
 
@@ -36,6 +38,7 @@ Data Visualization: Power BI, Tableau
 Databases: SQLite, MySQL
 
 Cloud: AWS (Learning and growing here!)
+
 
 
 
@@ -68,10 +71,12 @@ Tech: Python, Flask, Machine Learning, Web Development
 
 
 
+
 ## 📈 My Learning Journey
 I believe that Data Structures and Algorithms (DSA) are the core of problem-solving, and that's why I spend a lot of time mastering them on platforms like LeetCode and CodeForces.
 
 I am also diving deeper into Machine Learning and Deep Learning to solve real-world challenges.
+
 
 
 
@@ -86,8 +91,11 @@ GitHub: @ADITI9981
 
 
 
+
 ## 🏆 Fun Fact
 I was a rank holder in my class since 8th grade and made a huge academic comeback after struggling in my earlier years. This journey motivates me to stay focused and persistent no matter the challenge. 💪
+
+
 
 
 ## 🎯 My Goals
